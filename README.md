@@ -2,11 +2,9 @@
 
 ### ML & Robotics engineer passionate about building systems that solve hard problems. I spend my time on deep learning for autonomous offroad vehicles, autonomous UAV payload delivery, and diffusion for data synthesis!
 
-## Current Projects
-
-Check out some of my work below. You can also find more on my [GitHub](https://github.com/evandodani7).
-
 ## Featured Projects
+Check out some of my work below.
+
 - **[Offroad Autonomy](https://github.com/evandodani7/OffRoadHillClimb)** — Learned dynamics for autonomous offroad driving. Paper coming soon! (Must remain private until paper submission).
 - **[Quadrotor ML](https://github.com/evandodani7/ML-7641-Quadrotor-Learned-Payload-Dynamics-Controls)** — Learned payload dynamics and RL for quadrotors.
 
