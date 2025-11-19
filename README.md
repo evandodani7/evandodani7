@@ -16,8 +16,8 @@ Check out some of my work below. You can also find more on my [GitHub](https://g
 Python • PyTorch / TensorFlow • ROS • OpenCV • C++ • Git • [Add your other tools]
 
 ## Let's Connect
-- 📧 Email: [evanskylife@gmail.com](mailto:your.email@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/evan-dodani/](https://linkedin.com/in/yourname)
+- 📧 Email: [evanskylife@gmail.com](mailto:evanskylife@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/evan-dodani/](https://www.linkedin.com/in/evan-dodani/)
 - 📄 Resume: [link to your resume if hosted online]
 
 ---
