@@ -1,19 +1,18 @@
 ## Hi there, I'm Evan 👋
 
-# Robotics & ML engineer passionate about building systems that solve hard problems. I spend my time working on deep learning for autonomous offroad vehicles, autonomous UAV payload delivery, and diffusion for data synthesis!
+# ML & Robotics engineer passionate about building systems that solve hard problems. I spend my time on deep learning for autonomous offroad vehicles, autonomous UAV payload delivery, and diffusion for data synthesis!
 
 ## Current Projects
 
 Check out some of my work below. You can also find more on my [GitHub](https://github.com/evandodani7).
 
 ### Featured Projects
-[Add your best 3-4 projects here with links to the repos]
-- **[Project Name]** — Brief description of what it does and your role. Tech stack: Python, PyTorch, ROS, etc.
-- **[Project Name]** — What problem does it solve? What did you learn building it?
-- **[Project Name]** — Keep it short but show what's cool about it
+- **[Offroad Autonomy](https://github.com/evandodani7/OffRoadHillClimb)** — Learned dynamics for autonomous offroad driving.
+- **[Quadrotor ML](https://github.com/evandodani7/ML-7641-Quadrotor-Learned-Payload-Dynamics-Controls)** — Learned payload dynamics and RL for quadrotors.
+
 
 ## Tech Stack
-Python • PyTorch / TensorFlow • ROS • OpenCV • C++ • Git • [Add your other tools]
+Python • C++ • PyTorch • ROS2 • OpenCV • Git
 
 ## Let's Connect
 - 📧 Email: [evanskylife@gmail.com](mailto:evanskylife@gmail.com)
