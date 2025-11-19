@@ -17,7 +17,6 @@ Python • C++ • PyTorch • ROS2 • OpenCV • Git
 ## Let's Connect
 - 📧 Email: [evanskylife@gmail.com](mailto:evanskylife@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/evan-dodani/](https://www.linkedin.com/in/evan-dodani/)
-- 📄 Resume: [link to your resume if hosted online]
 
 ---
 
