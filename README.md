@@ -4,7 +4,7 @@
 
 ## Current Projects
 
-Check out some of my work below. You can also find more on my [GitHub](https://github.com/yourname).
+Check out some of my work below. You can also find more on my [GitHub](https://github.com/evandodani7).
 
 ### Featured Projects
 [Add your best 3-4 projects here with links to the repos]
