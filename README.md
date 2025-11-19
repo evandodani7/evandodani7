@@ -7,7 +7,7 @@
 Check out some of my work below. You can also find more on my [GitHub](https://github.com/evandodani7).
 
 ### Featured Projects
-- **[Offroad Autonomy](https://github.com/evandodani7/OffRoadHillClimb)** — Learned dynamics for autonomous offroad driving.
+- **[Offroad Autonomy](https://github.com/evandodani7/OffRoadHillClimb)** — Learned dynamics for autonomous offroad driving. Paper coming soon! (Must remain private until paper submission).
 - **[Quadrotor ML](https://github.com/evandodani7/ML-7641-Quadrotor-Learned-Payload-Dynamics-Controls)** — Learned payload dynamics and RL for quadrotors.
 
 
