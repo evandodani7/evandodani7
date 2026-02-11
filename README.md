@@ -1,6 +1,6 @@
 # Hi there, I'm Evan 👋
 
-### ML & Robotics engineer passionate about building systems that solve hard problems. I spend my time on deep learning for autonomous offroad vehicles, autonomous UAV payload delivery, and diffusion for data synthesis!
+### ML & Robotics engineer passionate about building systems that solve hard problems. I spend my time on deep learning for autonomous offroad vehicles, autonomous UAV payload delivery, and diffusion for AV latent world modeling!
 
 ## Featured Projects
 Check out some of my work below.
